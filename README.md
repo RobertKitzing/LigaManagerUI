@@ -1,3 +1,5 @@
+DEPRECATED - moved to [newRepo](https://github.com/RobertKitzing/liga-manager-ui)
+
 # Build steps
 
 1. yarn install
